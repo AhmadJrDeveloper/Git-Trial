@@ -1,4 +1,4 @@
-<center><h1>Mahmoud Saad</h1></center><br>
+<center><h1>Ahmad Saad</h1></center><br>
 <center><p>Aramoun,Lebanon | +96176838156 | <a href="ahmadsaad200235@gmail.com">E-mail</a> | <a href="[mailto:your.email@example.com](https://www.linkedin.com/in/ahmad-saad-1b2651256)">LinkedIn</a>
 </p></center><br>
 <center><p> Computer Science graduated in 2023 with a BS. Always willing to prove my abilities by accepting challenges and
@@ -10,7 +10,7 @@ seeking creative solution. My goal is to start new internships or a new job posi
 </p>
 <br>
 <p>
-<b style = "float:left">Bachelor’s of Science, Computer engineering </b>
+<b style = "float:left">Bachelor’s of Science, Computer Science </b>
 <b style = "float:right">Cumulative GPA: 3.3 / 4 </b>
 </p>
 <br>
